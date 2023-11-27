@@ -1,13 +1,13 @@
 <!-- ### Hi there 👋 -->
-# Me
-I figured I should make one of these lol
-## The Horrors
-A repo for basically anything that I feel like making, beware.
+# hii
 
-A bunch aren't finished so yeah watch out ig lol.
+Currently learning elixir, getting used to C, customising awesomeWM
 
-## This seems cool
-[![My cool GitHub stats](https://github-readme-stats.vercel.app/api?username=ColdMacaroni&show_icons=true&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
+## My stuff
+I try to make a repo for anything i find useful or cool
+
+<!-- ## This seems cool
+[![My cool GitHub stats](https://github-readme-stats.vercel.app/api?username=ColdMacaroni&show_icons=true&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--
 **ColdMacaroni/ColdMacaroni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
