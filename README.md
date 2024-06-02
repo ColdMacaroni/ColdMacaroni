@@ -1,7 +1,9 @@
-<!-- ### Hi there 👋 -->
+<!-- ### Hi there 👋 --->
 # hii
 
-Currently learning elixir, getting used to C, customising awesomeWM
+i love programming and such 🫡🫡🫡🫡🫡🫡
+
+🎃📢 i love c !! i love nvim !! i love linux !!
 
 ## My stuff
 I try to make a repo for anything i find useful or cool
