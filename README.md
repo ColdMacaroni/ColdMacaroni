@@ -1,12 +1,11 @@
 <!-- ### Hi there 👋 --->
-# hii
+# Hii
 
-i love programming and such 🫡🫡🫡🫡🫡🫡
-
-🎃📢 i love c !! i love nvim !! i love linux !!
+I'm Sofía and I enjoy programming and similar things. Currently studying software engineering.
 
 ## My stuff
-I try to make a repo for anything i find useful or cool
+
+I usually do all my programming on linux using neovim :^)
 
 <!-- ## This seems cool
 [![My cool GitHub stats](https://github-readme-stats.vercel.app/api?username=ColdMacaroni&show_icons=true&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats) -->
