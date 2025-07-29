@@ -3,6 +3,8 @@
 
 I'm Sofía and I enjoy programming and similar things. Currently studying software engineering.
 
+Most of my projects will be going up on my codeberg from now on: https://codeberg.org/babalark
+
 ## My stuff
 
 I usually do all my programming on linux using neovim :^)
